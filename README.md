@@ -1,1 +1,1 @@
-# homeSecuritySystem
+Made for a school assignment
